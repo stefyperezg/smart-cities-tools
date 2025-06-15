@@ -1,0 +1,21 @@
+station_id,station_uuid,lon,capacity,is_charging_station,lat,name,address,city
+25,9f2d10de-ae9f-46fa-a18e-6fdfedb497d9,025 - Parque El Virrey 2,4.673764,-74.054734,Calle 88 entre Carrera 16 y Carrera 17,27,TRUE,bogota_co
+194,c7e2a244-0e47-4ac2-bbcd-06438e68adcb,194 - Auto Norte con CL 100,4.685971,-74.057875,Avenida Carrera 45 entre Calle 100 y Calle 97,31,TRUE,bogota_co
+46,65f64cbc-be35-47be-b0b0-ce098b62acdb,046 - KR 7A con CL 90,4.671132,-74.044498,Carrera 7A entre Calle 90 y Calle 92,34,FALSE,bogota_co
+69,926f2352-b6d9-4ed1-8de3-6092193d0a56,069 - AK 30 con CL 47A,4.6364053,-74.07911,Avenida Carrera 30 entre Calle 47a y Calle 46,35,FALSE,bogota_co
+70,9a75c446-1803-4690-b2ea-66ed5a82c591,070 - CL 33A con KR 21,4.623078,-74.074795,Calle 33a entre Carrera 20 y Carrera 21,27,FALSE,bogota_co
+72,a1632008-1bc2-461d-bf9a-c06975ebdf55,072 - Tv. 17A Bis con CL36,4.6258354,-74.0725212,Transversal 17ABis con calle 36 y Calle 37,35,FALSE,bogota_co
+73,2e5078a3-24c7-4758-bf81-dac238463888,073 - Parque Nacional,4.623541,-74.066275,Carrera 7 entre Calle 36 y Calle 39,31,FALSE,bogota_co
+83,be745ae8-20be-479c-9819-f56d819bbd35,083 - KR 29B con CL 39,4.6276212,-74.0805603,Carrera 29b entre Calle 39 y Calle 39Bis,31,FALSE,bogota_co
+90,854706da-f245-4599-b4b6-a4f0c9dac153,090 - DG 92 con NQS,4.67917,-74.059478,Av. Carrera 30 entre Carrera 45A y Calle 93,35,FALSE,bogota_co
+92,ab810d07-4450-437e-8951-724bac31ad1d,092 - Parque de Los Hippies,4.645593,-74.0624731,Calle 60 entre Carrera 7 y Carrera 9,27,FALSE,bogota_co
+100,cdcb5c5c-b950-4639-a73b-661a24c13efe,100 - CL 12A con KR 7,4.5998072,-74.0748308,Calle 12A entre Carrera 7 y Carrera 8,27,FALSE,bogota_co
+108,7e7d61ae-22cc-4d57-954c-e04356635dda,108 - KR 7 con CL 35,4.622666,-74.066732,Carrera 7 entre Calle 35 y Calle 36,35,FALSE,bogota_co
+113,dda586a9-9a4b-4432-9f37-f074c9149609,113 - CL 22 con KR 4,4.606051,-74.06752,Calle 22 entre Carrera 3 y Carrera 4,27,FALSE,bogota_co
+121,cea56a35-4d49-46db-89f4-63dddceade17,121 - CL 26 con KR 29A,4.626204,-74.08112,Calle 26 entre Carrera 29A y Carrera 30,31,FALSE,bogota_co
+125,adee74c5-6da4-4297-a028-2fb374dc5f3f,125 - KR 16 con CL 31A,4.6194953,-74.0718597,Carrera 16 entre Calle 30 y Calle 31a,30,FALSE,bogota_co
+133,3404e99e-867e-49f5-9c2d-f64c534b656f,133 - KR 27A con CL 63C,4.6539057,-74.0747053,Carrera 27A entre Calle 63C y Calle 63B,30,FALSE,bogota_co
+138,bf717a31-c1e8-4970-992d-ba4a38db4e45,138 - CL 25 con KR 13,4.6124215,-74.0717941,Calle 25 entre Carrera 13 y Carrera 13 A,27,FALSE,bogota_co
+171,b958ef3f-7692-489e-98d4-683adc4dc885,171 - CL 93B con KR 15,4.67878,-74.05115,Calle 93B entre Carrera 15 y Carrera 16,34,FALSE,bogota_co
+172,410fa779-0ea0-4360-a2d9-4f1944f79795,172 - CL 37 con KR 8,4.6251293,-74.0667997,Calle 37 entre Carrera 8 y Carrera 13,27,FALSE,bogota_co
+176,29d53eee-ad11-4d5c-b0b6-1e3b1d11d8e9,176 - KR 24 con CL 80,4.669656,-74.063153,Av. Carrera 24 entre Calle 80 y Calle 82,27,FALSE,bogota_co

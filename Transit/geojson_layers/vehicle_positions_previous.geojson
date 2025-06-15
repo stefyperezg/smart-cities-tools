@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89603424072266,
+          43.94791793823242
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6109",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.83480072021484,
+          43.955318450927734
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6136",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8998031616211,
+          43.88948440551758
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8502",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.12535095214844,
+          43.81133270263672
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8511",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9198989868164,
+          43.88483428955078
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8534",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85003662109375,
+          43.876731872558594
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8535",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.11396789550781,
+          43.82018280029297
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8537",
+        "bearing": 0.0,
+        "speed": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SatSun,0,0,0,0,0,1,1,20250514,20250622
+Weekday,1,1,1,1,1,0,0,20250514,20250622
+Overnight,1,1,1,1,1,1,1,20250514,20250622
+SatSunReg,0,0,0,0,0,1,1,20250514,20250622
