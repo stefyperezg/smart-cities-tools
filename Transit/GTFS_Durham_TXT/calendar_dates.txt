@@ -1,4 +1,15 @@
 service_id,date,exception_type
-Weekday,20250519,2
-SatSun,20250519,1
-SatSunReg,20250519,1
+SatSun_merged_94403,20260216,1
+Weekday_merged_94404,20260216,2
+SatSun_merged_94406,20251226,1
+SatSun_merged_94406,20260101,1
+Weekday_merged_94407,20251222,2
+Weekday_merged_94407,20251223,2
+Weekday_merged_94407,20251224,2
+Weekday_merged_94407,20251225,2
+Weekday_merged_94407,20251226,2
+Weekday_merged_94407,20260101,2
+Christmas Day,20251225,1
+Holiday Week,20251222,1
+Holiday Week,20251223,1
+Holiday Week,20251224,1
