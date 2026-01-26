@@ -74,7 +74,7 @@ def plot_map(
     Returns:
         Dictionary with information about plotted connections
     """
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(9, 9))
     
     connection_info = {
         'vehicles_with_connections': 0,
@@ -156,8 +156,8 @@ def plot_map(
             column=colour_column,
             cmap=cmap,
             legend=True,
-            legend_kwds={'fontsize': 8, 'markerscale': 0.7, 'ncol': 2},
-            markersize=30
+            legend_kwds={'fontsize': 5, 'markerscale': 0.4, 'ncol': 2},
+            markersize=20
         )
         
     ctx.add_basemap(ax)

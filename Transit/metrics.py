@@ -325,12 +325,12 @@ def calculate_speed_and_travel_time(
         return {}
     
     # Ensure timestamp column exists
-    if 'capture_timestamp' not in vehicle_positions_df.columns:
+    if 'timestamp' not in vehicle_positions_df.columns:
         logger.warning("No timestamp column found for speed calculation")
         return {}
     
     vehicle_positions_df = vehicle_positions_df.copy()
-    vehicle_positions_df['timestamp'] = pd.to_datetime(vehicle_positions_df['capture_timestamp'])
+    vehicle_positions_df['timestamp'] = pd.to_datetime(vehicle_positions_df['timestamp'])
     
     # Calculate speeds for each vehicle
     speeds = []
