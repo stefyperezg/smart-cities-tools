@@ -4,11 +4,16 @@ import boto3
 import json
 from botocore.exceptions import ClientError
 from psycopg2 import sql
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Loads variables from .env
+
+secret_name = os.getenv("SECRET_NAME")
+region_name = os.getenv("REGION")
+service_name = 'secretsmanager'
 
 def get_db_secret():
-
-    secret_name = "my-pg-db-access"
-    region_name = "us-east-1"
 
     # Create a Secrets Manager client
     session = boto3.session.Session()
