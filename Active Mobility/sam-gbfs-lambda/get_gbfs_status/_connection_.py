@@ -66,7 +66,7 @@ def close_connection(conn):
 def get_db_engine():
 
     # PostgreSQL credentials
-    cred = get_secret()
+    cred = get_db_secret()
     username = cred['username']
     password = cred['password']
     host = cred['host']

@@ -7,7 +7,7 @@ import _utils_ as utils
 def lambda_handler(event, context):
     
     gbfs_url='https://bogota.publicbikesystem.net/customer/gbfs/v2/gbfs.json'
-    stations_file_name = "selected_stations 2024-12-04.csv"
+    stations_file_name = "selected_stations 2026-05-28.csv"
 
     all_data_links = requests.get(gbfs_url).json()
     feeds_dict = {feed['name']: feed['url'] for feed in all_data_links['data']['en']['feeds']}
