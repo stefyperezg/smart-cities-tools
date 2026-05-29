@@ -1,6 +1,7 @@
 import geopandas as gpd
 import contextily as ctx
 import matplotlib.pyplot as plt
+import numpy as np
 
 
 def plot_map(df, colour_column, cmap, title):
@@ -43,3 +44,29 @@ def plot_map(df, colour_column, cmap, title):
     plt.show()
 
 
+def haversine(lat1, lon1, lat2, lon2):
+    # Calculate the great circle distance between two points on the earth (in meters)
+    R = 6371000  # Earth radius in meters
+    phi1, phi2 = np.radians(lat1), np.radians(lat2)
+    dphi = np.radians(lat2 - lat1)
+    dlambda = np.radians(lon2 - lon1)
+    a = np.sin(dphi/2)**2 + np.cos(phi1)*np.cos(phi2)*np.sin(dlambda/2)**2
+    return 2 * R * np.arcsin(np.sqrt(a))
+
+def select_stations_far_apart(df, n=10, min_dist_m=500):
+    selected = []
+    for idx, row in df.iterrows():
+        if not selected:
+            selected.append(idx)
+        else:
+            too_close = False
+            for sel_idx in selected:
+                dist = haversine(row['lat'], row['lon'], df.loc[sel_idx, 'lat'], df.loc[sel_idx, 'lon'])
+                if dist < min_dist_m:
+                    too_close = True
+                    break
+            if not too_close:
+                selected.append(idx)
+        if len(selected) == n:
+            break
+    return df.loc[selected]
