@@ -1,0 +1,438 @@
+{
+  "version": "1.0",
+  "time_zone": "America/Guayaquil",
+  "last_updated": 1782480271572,
+  "currency": "USD",
+  "author": "City of Ambato",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "data": {
+    "zones": [
+      {
+        "curb_zone_id": "d9eb24e0-42ac-4294-9d18-a1aade1b896a",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62936876136291,
+              -1.241820303479277
+            ],
+            [
+              -78.62974272017668,
+              -1.242163042552635
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "a2c632f7-d15f-4dc8-b92a-8ee7b6393dc2",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62944968475205,
+              -1.2417805405603
+            ],
+            [
+              -78.62981273749054,
+              -1.242100804940323
+            ],
+            [
+              -78.62981273749054,
+              -1.242100804940323
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "a9b8e9a3-bc7a-4117-ad6b-43a6602d1307",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62972456753975,
+              -1.242248619269564
+            ],
+            [
+              -78.62940689639358,
+              -1.242624638177284
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "fc52a67b-199a-4242-b060-ce8684e11388",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62982570365976,
+              -1.242240839568025
+            ],
+            [
+              -78.6294535746028,
+              -1.24270502842652
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "350bd5e4-66cf-4b38-8204-92f33af9fc01",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62887787668892,
+              -1.242238246334179
+            ],
+            [
+              -78.62930057380588,
+              -1.242645384048054
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "154d5317-144f-44b1-a13b-8cd100cc2b07",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62928112455204,
+              -1.242724477680368
+            ],
+            [
+              -78.62878970673815,
+              -1.24225510235418
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "2136f706-32af-438d-bf7b-3bcd8727b7e7",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62924611589511,
+              -1.241753311604914
+            ],
+            [
+              -78.62888565639048,
+              -1.242169525637251
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "598e9920-8436-4147-bc91-434424584972",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62919943768588,
+              -1.241662548420292
+            ],
+            [
+              -78.62875988454893,
+              -1.242173415488021
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "50180697-3cc8-496f-86b2-2b5e63f0b523",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62989464025219,
+              -1.242188325066334
+            ],
+            [
+              -78.63045602241186,
+              -1.242690614367099
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "0cb65cb8-61f6-4667-8066-4715cd8e5a54",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.629850320608,
+              -1.242243724621566
+            ],
+            [
+              -78.63038954294558,
+              -1.242723854100237
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "7dcb908c-5f5a-4f78-a661-e72ca82ea69c",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.6299131067706,
+              -1.243314782689372
+            ],
+            [
+              -78.62938865764774,
+              -1.242797720173879
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "93946407-38a7-4888-b788-7e9a3006c58a",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62986878712641,
+              -1.243370182244603
+            ],
+            [
+              -78.62952623320989,
+              -1.243029474979931
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "2de3642c-8cb2-4acd-b95e-43bc4f730300",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62952623320989,
+              -1.243029474979931
+            ],
+            [
+              -78.62935172461091,
+              -1.242857736358713
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "9c9c34ec-85b8-413b-8de7-233baaadd4a8",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62989464025219,
+              -1.242188325066334
+            ],
+            [
+              -78.63007925318702,
+              -1.241963838217808
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "25e6a837-981b-4c65-9774-e77385e7a1ba",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.63007925318702,
+              -1.241963838217808
+            ],
+            [
+              -78.63016233451,
+              -1.24186484770532
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "d88f075d-3332-48d9-a6ac-5ef46da16c36",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62935172461091,
+              -1.242857736358713
+            ],
+            [
+              -78.62909864656,
+              -1.243167746127565
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "cb7fc44e-cd7d-4ac0-8dab-9d8214993241",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62909864656,
+              -1.243167746127565
+            ],
+            [
+              -78.62903561781292,
+              -1.243242912089061
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "20334bf1-8ab0-4c6f-850a-4a4ab68d9dfb",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.62903561781292,
+              -1.243242912089061
+            ],
+            [
+              -78.62884349534153,
+              -1.24343683009758
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      },
+      {
+        "curb_zone_id": "2c2b8675-780d-40be-80a0-5f17a92e3733",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -78.6293139260659,
+              -1.242792232272968
+            ],
+            [
+              -78.62904459549851,
+              -1.243129793250759
+            ],
+            [
+              -78.62880399352498,
+              -1.243366804150059
+            ]
+          ]
+        },
+        "curb_policy_ids": [
+          "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+        ],
+        "published_date": 1170291600000,
+        "last_updated_date": 1782480271572,
+        "start_date": 1170291600000
+      }
+    ]
+  }
+}

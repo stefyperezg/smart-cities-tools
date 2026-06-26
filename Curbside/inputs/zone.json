@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "zone",
+"features": [
+{ "type": "Feature", "properties": { "name": "SIMON BOLIVAR", "side": "sur", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629368761362912, -1.241820303479277 ], [ -78.629742720176679, -1.242163042552635 ] ] } },
+{ "type": "Feature", "properties": { "name": "SIMON BOLIVAR", "side": "norte", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629449684752046, -1.2417805405603 ], [ -78.629812737490539, -1.242100804940323 ], [ -78.629812737490539, -1.242100804940323 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "este", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629724567539753, -1.242248619269564 ], [ -78.629406896393576, -1.242624638177284 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "oeste", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629825703659762, -1.242240839568025 ], [ -78.629453574602806, -1.24270502842652 ] ] } },
+{ "type": "Feature", "properties": { "name": "SUCRE", "side": "norte", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.628877876688918, -1.242238246334179 ], [ -78.629300573805878, -1.242645384048054 ] ] } },
+{ "type": "Feature", "properties": { "name": "SUCRE", "side": "sur", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629281124552037, -1.242724477680368 ], [ -78.628789706738146, -1.24225510235418 ] ] } },
+{ "type": "Feature", "properties": { "name": "JUAN MONTALVO", "side": "oeste", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629246115895114, -1.241753311604914 ], [ -78.62888565639048, -1.242169525637251 ] ] } },
+{ "type": "Feature", "properties": { "name": "JUAN MONTALVO", "side": "este", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629199437685884, -1.241662548420292 ], [ -78.628759884548927, -1.242173415488021 ] ] } },
+{ "type": "Feature", "properties": { "name": "SIMON BOLIVAR", "side": "norte", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629894640252189, -1.242188325066334 ], [ -78.630456022411863, -1.242690614367099 ] ] } },
+{ "type": "Feature", "properties": { "name": "SIMON BOLIVAR", "side": "sur", "policy": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629850320608, -1.242243724621566 ], [ -78.630389542945579, -1.242723854100237 ] ] } },
+{ "type": "Feature", "properties": { "name": "SUCRE", "side": "north", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629913106770601, -1.243314782689372 ], [ -78.629388657647738, -1.242797720173879 ] ] } },
+{ "type": "Feature", "properties": { "name": "SUCRE", "side": "sur", "policy": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629868787126412, -1.243370182244603 ], [ -78.629526233209887, -1.243029474979931 ] ] } },
+{ "type": "Feature", "properties": { "name": "SUCRE", "side": "sur", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629526233209887, -1.243029474979931 ], [ -78.629351724610913, -1.242857736358713 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "oeste", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629894640252189, -1.242188325066334 ], [ -78.63007925318702, -1.241963838217808 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "west", "policy": "3" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.63007925318702, -1.241963838217808 ], [ -78.630162334510004, -1.24186484770532 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "west", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629351724610913, -1.242857736358713 ], [ -78.629098646559996, -1.243167746127565 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "west", "policy": "3" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629098646559996, -1.243167746127565 ], [ -78.629035617812917, -1.243242912089061 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "west", "policy": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629035617812917, -1.243242912089061 ], [ -78.628843495341528, -1.24343683009758 ] ] } },
+{ "type": "Feature", "properties": { "name": "MARIANO CASTILLO", "side": "east", "policy": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.629313926065905, -1.242792232272968 ], [ -78.629044595498513, -1.243129793250759 ], [ -78.628803993524983, -1.243366804150059 ] ] } }
+]
+}

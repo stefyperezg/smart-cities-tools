@@ -1,0 +1,4 @@
+curb_policy_int_id,published_date,priority,data_source_operator_id,time_spans.days_of_week,time_spans.time_of_day_start,time_spans.time_of_day_end,rules.activity,rules.max_stay,rules.user_classes,rates.duration,rates.rate
+"2","1552678594428","3000",,mon-tue-wed-thu-fri,0:00,23:59,no paking,,all,"0","0.00"
+"1","1552678594428","5000",,mon-tue-wed-thu-fri-sat-sun,8:00,18:00,parking,"180",all,"30","0.50"
+"3","1552678594428","1000",,mon-tue-wed-thu-fri-sat-sun,8:00,18:00,accessible parking,"360",accessible,"60","0.40"

@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "No Estacionar",
+        "relacion": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+          [-78.6105, -1.2520]
+      }
+    },
+{ "type": "Feature", "properties": { "name": "no estacionar", "relacion": 2 }, "geometry": { "type": "Point", "coordinates": [ -78.629450981368976, -1.24190760901877 ] } },
+{ "type": "Feature", "properties": { "name": "no estacionar", "relacion": 2 }, "geometry": { "type": "Point", "coordinates": [ -78.629589719379752, -1.241898532700308 ] } },
+{ "type": "Feature", "properties": { "name": "No Estacionar", "relacion": 2 }, "geometry": { "type": "Point", "coordinates": [ -78.629270833175113, -1.242995617659006 ] } }
+]
+}

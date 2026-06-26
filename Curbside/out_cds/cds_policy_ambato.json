@@ -1,0 +1,109 @@
+{
+  "version": "1.0",
+  "time_zone": "America/Guayaquil",
+  "last_updated": 1782480271572,
+  "currency": "USD",
+  "author": "City of Ambato",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "data": {
+    "policies": [
+      {
+        "curb_policy_int_id": 2,
+        "published_date": 1170291600000,
+        "priority": 3000,
+        "data_source_operator_id": null,
+        "time_spans": {
+          "days_of_week": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "time_of_day_start": "0:00",
+          "time_of_day_end": "23:59"
+        },
+        "rules": [
+          {
+            "activity": "no paking",
+            "max_stay": null,
+            "user_classes": "all"
+          }
+        ],
+        "rates": [
+          {
+            "duration": 0,
+            "rate": 0.0
+          }
+        ],
+        "curb_policy_id": "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+      },
+      {
+        "curb_policy_int_id": 1,
+        "published_date": 1170291600000,
+        "priority": 5000,
+        "data_source_operator_id": null,
+        "time_spans": {
+          "days_of_week": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "time_of_day_start": "8:00",
+          "time_of_day_end": "18:00"
+        },
+        "rules": [
+          {
+            "activity": "parking",
+            "max_stay": 180.0,
+            "user_classes": "all"
+          }
+        ],
+        "rates": [
+          {
+            "duration": 30,
+            "rate": 0.5
+          }
+        ],
+        "curb_policy_id": "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+      },
+      {
+        "curb_policy_int_id": 3,
+        "published_date": 1170291600000,
+        "priority": 1000,
+        "data_source_operator_id": null,
+        "time_spans": {
+          "days_of_week": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "time_of_day_start": "8:00",
+          "time_of_day_end": "18:00"
+        },
+        "rules": [
+          {
+            "activity": "accessible parking",
+            "max_stay": 360.0,
+            "user_classes": "accessible"
+          }
+        ],
+        "rates": [
+          {
+            "duration": 60,
+            "rate": 0.4
+          }
+        ],
+        "curb_policy_id": "f6b7cac0-10e2-4e0d-83e7-c58173c9fd9c"
+      }
+    ]
+  }
+}
