@@ -1,12 +1,11 @@
 import json
 import requests
-import uuid
-import pandas as pd
+import os
 import _utils_ as utils
 
 def lambda_handler(event, context):
     
-    gbfs_url='https://bogota.publicbikesystem.net/customer/gbfs/v2/gbfs.json'
+    gbfs_url= os.environ.get('GBFS_URL')
     stations_file_name = "selected_stations 2026-05-28.csv"
 
     all_data_links = requests.get(gbfs_url).json()

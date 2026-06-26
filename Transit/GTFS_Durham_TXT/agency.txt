@@ -1,2 +1,0 @@
-agency_phone,agency_timezone,agency_email,agency_id,agency_url,agency_fare_url,agency_lang,agency_name
-1-866-247-0055,America/Toronto,drthelps@durham.ca,drt,https://www.durhamregiontransit.com,https://www.durhamregiontransit.com/en/fares-and-passes/fares.aspx,en,Durham Region Transit

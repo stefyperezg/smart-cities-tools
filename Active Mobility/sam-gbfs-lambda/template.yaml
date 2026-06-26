@@ -19,3 +19,49 @@ Resources:
       Runtime: python3.9
       Architectures:
       - x86_64
+
+  FetchGbfsToSqsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: fetch_gbfs_to_sqs/
+      Handler: app.lambda_handler
+      Runtime: python3.9  
+      Environment:
+        Variables:
+          GBFS_URL: "https://bogota.publicbikesystem.net/customer/gbfs/v2/gbfs.js"  # Set your GBFS URL here or override in deployment
+          SQS_QUEUE_URL: !Ref GbfsRawDataQueue
+      Policies:
+        - SQSSendMessagePolicy:
+            QueueName: !GetAtt GbfsRawDataQueue.QueueName
+
+  ProcessGbfsFromSqsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: process_gbfs_from_sqs/
+      Handler: app.lambda_handler
+      Runtime: python3.9
+      Environment:
+        Variables:
+          S3_BUCKET: !Ref GbfsDataBucket
+          S3_PREFIX: "bogota/station_status"
+          CITY_ID: "bogota_co"  
+      Events:
+        SQSTrigger:
+          Type: SQS
+          Properties:
+            Queue: !GetAtt GbfsRawDataQueue.Arn
+      Policies:
+        - S3WritePolicy:
+            BucketName: !Ref GbfsDataBucket
+        - SQSPollerPolicy:
+            QueueName: !GetAtt GbfsRawDataQueue.QueueName
+
+  GbfsRawDataQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: gbfs-raw-data-queue
+
+  GbfsDataBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: gbfs-data-bucket-smart-city # Change to a unique bucket name

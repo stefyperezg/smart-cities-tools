@@ -1,9 +1,11 @@
+notes_to_do.txt
 files/
 gbfs-bogota-bckup/
 GTFS_old/
 icons/
 .aws-sam/
 gtfs_env/
+*GTFS_static/
 
 _SS/
 .DS_Store

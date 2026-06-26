@@ -71,7 +71,7 @@ def get_db_engine():
     password = cred['password']
     host = cred['host']
     port = cred['port']
-    database = crd['dbname']
+    database = cred['dbname']
    
     # Create SQLAlchemy engine
     engine = create_engine(f'postgresql+psycopg2://{username}:{password}@{host}:{port}/{database}')

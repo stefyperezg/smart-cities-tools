@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.08350372314453,
-          43.86006546020508
+          -79.06541442871094,
+          43.852134704589844
         ]
       },
       "properties": {
         "vehicle_id": "6100",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2285__201099_Timetable_-_2026-01",
-        "route_id": "112",
-        "timestamp": 1769465048
+        "trip_id": "1287__201059_Timetable_-_2026-04",
+        "route_id": "211",
+        "timestamp": 1781872968
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.86328125,
-          43.89763259887695
+          -79.08513641357422,
+          43.83293151855469
         ]
       },
       "properties": {
         "vehicle_id": "6101",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "554__201015_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465030
+        "trip_id": "5600__201036_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872995
       }
     },
     {
@@ -42,35 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.11233520507812,
-          44.11126708984375
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6102",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1827__201048_Timetable_-_2026-01",
-        "route_id": "605",
-        "timestamp": 1769465051
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.94245147705078,
-          43.86054992675781
+          -78.88375091552734,
+          43.86240005493164
         ]
       },
       "properties": {
         "vehicle_id": "6103",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "699__401097_Timetable_-_2026-01",
-        "route_id": "917",
-        "timestamp": 1769465049
+        "trip_id": "5__401029_Timetable_-_2026-04",
+        "route_id": "403",
+        "timestamp": 1781872992
       }
     },
     {
@@ -78,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.89671325683594,
-          43.94874954223633
+          -78.99296569824219,
+          43.88763427734375
         ]
       },
       "properties": {
-        "vehicle_id": "6106",
+        "vehicle_id": "6104",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "338__401019_Timetable_-_2026-01",
-        "route_id": "409",
-        "timestamp": 1769465031
+        "trip_id": "1436__201087_Timetable_-_2026-04",
+        "route_id": "920",
+        "timestamp": 1781872923
       }
     },
     {
@@ -96,17 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87718200683594,
-          43.88930130004883
+          -78.82859802246094,
+          43.882999420166016
         ]
       },
       "properties": {
         "vehicle_id": "6109",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "242__401017_Timetable_-_2026-01",
-        "route_id": "410",
-        "timestamp": 1769465071
+        "trip_id": "1049__401075_Timetable_-_2026-04",
+        "route_id": "421",
+        "timestamp": 1781872943
       }
     },
     {
@@ -114,17 +96,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.86988067626953,
-          43.93696594238281
+          -78.87750244140625,
+          43.8873176574707
         ]
       },
       "properties": {
         "vehicle_id": "6113",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "180__401079_Timetable_-_2026-01",
-        "route_id": "407",
-        "timestamp": 1769465049
+        "trip_id": "78__401081_Timetable_-_2026-04",
+        "route_id": "405",
+        "timestamp": 1781872980
       }
     },
     {
@@ -132,17 +114,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8904037475586,
-          43.94404983520508
+          -78.6792984008789,
+          43.91075134277344
         ]
       },
       "properties": {
         "vehicle_id": "6115",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "957__401009_Timetable_-_2026-01",
-        "route_id": "901",
-        "timestamp": 1769465047
+        "trip_id": "1695__401055_Timetable_-_2026-04",
+        "route_id": "902",
+        "timestamp": 1781872985
       }
     },
     {
@@ -150,17 +132,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.84858703613281,
-          43.941898345947266
+          -78.8076171875,
+          43.907135009765625
         ]
       },
       "properties": {
         "vehicle_id": "6118",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "906__401024_Timetable_-_2026-01",
-        "route_id": "419",
-        "timestamp": 1769465017
+        "trip_id": "1694__401062_Timetable_-_2026-04",
+        "route_id": "902",
+        "timestamp": 1781872989
       }
     },
     {
@@ -168,17 +150,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.81246948242188,
-          43.90666580200195
+          -78.90143585205078,
+          43.88511657714844
         ]
       },
       "properties": {
         "vehicle_id": "6119",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1719__401062_Timetable_-_2026-01",
-        "route_id": "902",
-        "timestamp": 1769465066
+        "trip_id": "297__401026_Timetable_-_2026-04",
+        "route_id": "409",
+        "timestamp": 1781872960
       }
     },
     {
@@ -186,17 +168,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.85230255126953,
-          43.94621658325195
+          -79.12431335449219,
+          43.838966369628906
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6120",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2302__201001_Timetable_-_2026-04",
+        "route_id": "118",
+        "timestamp": 1781872977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02484893798828,
+          43.84233474731445
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6121",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1300__201063_Timetable_-_2026-04",
+        "route_id": "227",
+        "timestamp": 1781872940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0224838256836,
+          43.83433151245117
         ]
       },
       "properties": {
         "vehicle_id": "6122",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1840__201031_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465059
+        "trip_id": "1312__201061_Timetable_-_2026-04",
+        "route_id": "227",
+        "timestamp": 1781872966
       }
     },
     {
@@ -204,35 +222,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.94563293457031,
-          43.87009811401367
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6123",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1326__201057_Timetable_-_2026-01",
-        "route_id": "306",
-        "timestamp": 1769465068
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.92054748535156,
-          43.90436553955078
+          -79.08785247802734,
+          43.87971496582031
         ]
       },
       "properties": {
         "vehicle_id": "6125",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1806__201041_Timetable_-_2026-01",
-        "route_id": "905",
-        "timestamp": 1769465027
+        "trip_id": "2286__201004_Timetable_-_2026-04",
+        "route_id": "112",
+        "timestamp": 1781872987
       }
     },
     {
@@ -240,17 +240,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0275650024414,
-          43.87969970703125
+          -78.92601776123047,
+          43.892616271972656
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6126",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "909__201031_Timetable_-_2026-04",
+        "route_id": "319",
+        "timestamp": 1781872958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04093170166016,
+          43.851348876953125
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6127",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1275__201056_Timetable_-_2026-04",
+        "route_id": "211",
+        "timestamp": 1781872974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95054626464844,
+          43.87788391113281
         ]
       },
       "properties": {
         "vehicle_id": "6128",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1921__201076_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465023
+        "trip_id": "1600__201016_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872946
       }
     },
     {
@@ -258,35 +294,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8416976928711,
-          43.95690155029297
+          -78.80401611328125,
+          43.876651763916016
         ]
       },
       "properties": {
-        "vehicle_id": "6129",
+        "vehicle_id": "6130",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2012__201075_Timetable_-_2026-01",
-        "route_id": "915",
-        "timestamp": 1769465016
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88674926757812,
-          43.87043380737305
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6131",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "2458__403012_Timetable_-_2026-01",
+        "trip_id": "2457__403009_Timetable_-_2026-04",
         "route_id": "801",
-        "timestamp": 1769465072
+        "timestamp": 1781872985
       }
     },
     {
@@ -294,17 +312,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.65895080566406,
-          43.89161682128906
+          -79.14295196533203,
+          43.801082611083984
         ]
       },
       "properties": {
-        "vehicle_id": "6132",
+        "vehicle_id": "6134",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2433__403009_Timetable_-_2026-01",
-        "route_id": "505",
-        "timestamp": 1769465068
+        "trip_id": "2480__403011_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872947
       }
     },
     {
@@ -312,53 +330,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.85543060302734,
-          43.87266540527344
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6133",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1627__403010_Timetable_-_2026-01",
-        "route_id": "403",
-        "timestamp": 1769465045
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.8180160522461,
-          43.888851165771484
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6135",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1098__403005_Timetable_-_2026-01",
-        "route_id": "421",
-        "timestamp": 1769465052
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.02552032470703,
-          43.82740020751953
+          -78.92733001708984,
+          43.91963195800781
         ]
       },
       "properties": {
         "vehicle_id": "6136",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1314__201046_Timetable_-_2026-01",
-        "route_id": "227",
-        "timestamp": 1769465072
+        "trip_id": "1437__201086_Timetable_-_2026-04",
+        "route_id": "920",
+        "timestamp": 1781872948
       }
     },
     {
@@ -366,17 +348,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87223052978516,
-          43.944400787353516
+          -78.96585083007812,
+          44.09446716308594
         ]
       },
       "properties": {
         "vehicle_id": "6137",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "175__401080_Timetable_-_2026-01",
-        "route_id": "407",
-        "timestamp": 1769465045
+        "trip_id": "5818__401045_Timetable_-_2026-04",
+        "route_id": "618",
+        "timestamp": 1781872969
       }
     },
     {
@@ -384,17 +366,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.9216537475586,
-          43.8658332824707
+          -78.89556884765625,
+          43.94321823120117
         ]
       },
       "properties": {
         "vehicle_id": "6138",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1421__201086_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465034
+        "trip_id": "2183__201046_Timetable_-_2026-04",
+        "route_id": "302",
+        "timestamp": 1781872986
       }
     },
     {
@@ -402,17 +384,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.91498565673828,
-          43.964115142822266
+          -78.86133575439453,
+          43.9557991027832
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6139",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "76__401013_Timetable_-_2026-04",
+        "route_id": "405",
+        "timestamp": 1781872946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0923843383789,
+          43.83420181274414
         ]
       },
       "properties": {
         "vehicle_id": "6140",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2142__201049_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465046
+        "trip_id": "2208__201073_Timetable_-_2026-04",
+        "route_id": "118",
+        "timestamp": 1781872981
       }
     },
     {
@@ -420,17 +420,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.89388275146484,
-          43.94438171386719
+          -79.0174331665039,
+          43.867183685302734
         ]
       },
       "properties": {
-        "vehicle_id": "6141",
+        "vehicle_id": "6142",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1442__201095_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465054
+        "trip_id": "608__201006_Timetable_-_2026-04",
+        "route_id": "224",
+        "timestamp": 1781872979
       }
     },
     {
@@ -438,17 +438,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.91535186767578,
-          43.9168815612793
+          -79.10044860839844,
+          44.1037483215332
         ]
       },
       "properties": {
         "vehicle_id": "6143",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2324__201100_Timetable_-_2026-01",
+        "trip_id": "1782__201045_Timetable_-_2026-04",
         "route_id": "905",
-        "timestamp": 1769465064
+        "timestamp": 1781872985
       }
     },
     {
@@ -456,17 +456,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8850326538086,
-          43.94038391113281
+          -79.06288146972656,
+          43.8220329284668
         ]
       },
       "properties": {
         "vehicle_id": "6144",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1775__201027_Timetable_-_2026-01",
-        "route_id": "905",
-        "timestamp": 1769465030
+        "trip_id": "735__201044_Timetable_-_2026-04",
+        "route_id": "101",
+        "timestamp": 1781872953
       }
     },
     {
@@ -474,35 +474,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.07971954345703,
-          43.86003494262695
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6145",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1524__401086_Timetable_-_2026-01",
-        "route_id": "921",
-        "timestamp": 1769465066
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.92745208740234,
-          43.883201599121094
+          -78.95028686523438,
+          43.897499084472656
         ]
       },
       "properties": {
         "vehicle_id": "6146",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "492__201017_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465061
+        "trip_id": "5644__201022_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872984
       }
     },
     {
@@ -510,17 +492,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.84728240966797,
-          43.90956497192383
+          -78.86821746826172,
+          43.932682037353516
         ]
       },
       "properties": {
         "vehicle_id": "6147",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "111__401031_Timetable_-_2026-01",
-        "route_id": "405",
-        "timestamp": 1769465070
+        "trip_id": "145__403002_Timetable_-_2026-04",
+        "route_id": "407",
+        "timestamp": 1781872964
       }
     },
     {
@@ -528,17 +510,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.02680206298828,
-          43.879615783691406
+          -78.99765014648438,
+          43.84865188598633
         ]
       },
       "properties": {
         "vehicle_id": "6148",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1121__201052_Timetable_-_2026-01",
-        "route_id": "216",
-        "timestamp": 1769464993
+        "trip_id": "1311__201070_Timetable_-_2026-04",
+        "route_id": "227",
+        "timestamp": 1781872983
       }
     },
     {
@@ -546,17 +528,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.78663635253906,
-          43.906185150146484
+          -78.65326690673828,
+          43.89780044555664
         ]
       },
       "properties": {
         "vehicle_id": "6149",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1065__401044_Timetable_-_2026-01",
-        "route_id": "421",
-        "timestamp": 1769465021
+        "trip_id": "2424__403003_Timetable_-_2026-04",
+        "route_id": "505",
+        "timestamp": 1781872967
       }
     },
     {
@@ -564,17 +546,557 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0356674194336,
-          43.84014892578125
+          -79.16041564941406,
+          44.42974853515625
         ]
       },
       "properties": {
         "vehicle_id": "6150",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "631__401005_Timetable_-_2026-01",
+        "trip_id": "5804__401035_Timetable_-_2026-04",
+        "route_id": "618",
+        "timestamp": 1781872970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95831298828125,
+          43.966915130615234
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6151",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2105__201066_Timetable_-_2026-04",
+        "route_id": "302",
+        "timestamp": 1781872955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03848266601562,
+          43.84693145751953
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6152",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "612__201040_Timetable_-_2026-04",
+        "route_id": "224",
+        "timestamp": 1781872959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0413818359375,
+          43.847599029541016
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6153",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "717__201048_Timetable_-_2026-04",
+        "route_id": "224",
+        "timestamp": 1781872963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08221435546875,
+          43.86778259277344
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6154",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5599__201072_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9664535522461,
+          43.89374923706055
+        ]
+      },
+      "properties": {
+        "vehicle_id": "6157",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1412__201089_Timetable_-_2026-04",
+        "route_id": "920",
+        "timestamp": 1781872982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17113494873047,
+          43.808250427246094
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7100",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1533__401021_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0414810180664,
+          43.8474006652832
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7101",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1105__201065_Timetable_-_2026-04",
+        "route_id": "216",
+        "timestamp": 1781872950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86863708496094,
+          43.908748626708984
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7102",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5307__401041_Timetable_-_2026-04",
+        "route_id": "901",
+        "timestamp": 1781872996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91808319091797,
+          43.92359924316406
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7104",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1795__201067_Timetable_-_2026-04",
+        "route_id": "905",
+        "timestamp": 1781872941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1070327758789,
+          43.81290054321289
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7105",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "795__201024_Timetable_-_2026-04",
+        "route_id": "121",
+        "timestamp": 1781872940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8565673828125,
+          43.875099182128906
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7107",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "38__401007_Timetable_-_2026-04",
+        "route_id": "403",
+        "timestamp": 1781872969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85676574707031,
+          43.9561653137207
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7108",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5698__201075_Timetable_-_2026-04",
+        "route_id": "915",
+        "timestamp": 1781872995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9674301147461,
+          43.91288375854492
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7109",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1230__201033_Timetable_-_2026-04",
+        "route_id": "301",
+        "timestamp": 1781872994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87785339355469,
+          43.88064956665039
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7111",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "704__401042_Timetable_-_2026-04",
         "route_id": "917",
-        "timestamp": 1769465014
+        "timestamp": 1781872945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.83878326416016,
+          43.86425018310547
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7112",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5275__401089_Timetable_-_2026-04",
+        "route_id": "901",
+        "timestamp": 1781872992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.84950256347656,
+          43.89065170288086
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7114",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "143__401083_Timetable_-_2026-04",
+        "route_id": "407",
+        "timestamp": 1781872941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00718688964844,
+          43.88446807861328
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7115",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5643__201027_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94141387939453,
+          43.87776565551758
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7116",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2102__201013_Timetable_-_2026-04",
+        "route_id": "302",
+        "timestamp": 1781872981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93778228759766,
+          43.865116119384766
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7118",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1770__201041_Timetable_-_2026-04",
+        "route_id": "905",
+        "timestamp": 1781872958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96015167236328,
+          43.922183990478516
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7119",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2165__201034_Timetable_-_2026-04",
+        "route_id": "302",
+        "timestamp": 1781872970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87265014648438,
+          43.895484924316406
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7120",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "504__201018_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8705825805664,
+          43.915184020996094
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7121",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5597__201074_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94770050048828,
+          43.869598388671875
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7122",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1323__201009_Timetable_-_2026-04",
+        "route_id": "306",
+        "timestamp": 1781872990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81818389892578,
+          43.916648864746094
+        ]
+      },
+      "properties": {
+        "vehicle_id": "7124",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "291__401047_Timetable_-_2026-04",
+        "route_id": "423",
+        "timestamp": 1781872964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89531707763672,
+          43.943668365478516
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8470",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "148__401046_Timetable_-_2026-04",
+        "route_id": "407",
+        "timestamp": 1781872943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93761444091797,
+          43.86494827270508
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8471",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "661__401004_Timetable_-_2026-04",
+        "route_id": "917",
+        "timestamp": 1781872980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13524627685547,
+          43.823299407958984
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8472",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "827__201080_Timetable_-_2026-04",
+        "route_id": "121",
+        "timestamp": 1781872976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90955352783203,
+          43.87874984741211
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8501",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2331__201095_Timetable_-_2026-04",
+        "route_id": "905",
+        "timestamp": 1781872958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09521484375,
+          43.83803176879883
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8503",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "796__201023_Timetable_-_2026-04",
+        "route_id": "121",
+        "timestamp": 1781872941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09461975097656,
+          43.845115661621094
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8504",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2274__201047_Timetable_-_2026-04",
+        "route_id": "112",
+        "timestamp": 1781872942
       }
     },
     {
@@ -583,16 +1105,16 @@
         "type": "Point",
         "coordinates": [
           -79.04119873046875,
-          43.846500396728516
+          43.846534729003906
         ]
       },
       "properties": {
-        "vehicle_id": "6151",
+        "vehicle_id": "8507",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "645__201042_Timetable_-_2026-01",
+        "trip_id": "594__401033_Timetable_-_2026-04",
         "route_id": "917",
-        "timestamp": 1769465043
+        "timestamp": 1781872938
       }
     },
     {
@@ -600,485 +1122,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.04151916503906,
-          43.847415924072266
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6152",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1122__201030_Timetable_-_2026-01",
-        "route_id": "216",
-        "timestamp": 1769465070
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88594818115234,
-          43.91188430786133
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6153",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1899__201028_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465015
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.9574966430664,
-          43.91561508178711
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6155",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "2125__201072_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465050
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1451187133789,
-          43.82548522949219
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6156",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "844__201025_Timetable_-_2026-01",
-        "route_id": "121",
-        "timestamp": 1769465027
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.92516326904297,
-          43.92256546020508
-        ]
-      },
-      "properties": {
-        "vehicle_id": "6157",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1837__201002_Timetable_-_2026-01",
-        "route_id": "915",
-        "timestamp": 1769465024
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88563537597656,
-          43.87088394165039
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7100",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1671__401057_Timetable_-_2026-01",
-        "route_id": "902",
-        "timestamp": 1769465072
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.08493041992188,
-          43.83061599731445
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7101",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "845__201083_Timetable_-_2026-01",
-        "route_id": "121",
-        "timestamp": 1769465068
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.84953308105469,
-          43.89066696166992
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7102",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "178__401007_Timetable_-_2026-01",
-        "route_id": "407",
-        "timestamp": 1769465034
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.8942642211914,
-          43.94654846191406
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7104",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1417__201084_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465063
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.90280151367188,
-          43.92744827270508
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7105",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1917__201079_Timetable_-_2026-01",
-        "route_id": "915",
-        "timestamp": 1769465030
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.00904846191406,
-          43.883968353271484
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7106",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1440__201094_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769464941
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.11499786376953,
-          43.819149017333984
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7107",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1549__401073_Timetable_-_2026-01",
-        "route_id": "921",
-        "timestamp": 1769465055
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.96851348876953,
-          43.95628356933594
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7108",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "2069__201039_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465060
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.22968292236328,
-          43.791114807128906
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7110",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1518__401083_Timetable_-_2026-01",
-        "route_id": "921",
-        "timestamp": 1769465054
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.68748474121094,
-          43.91204833984375
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7112",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1362__401065_Timetable_-_2026-01",
-        "route_id": "502",
-        "timestamp": 1769465066
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.93788146972656,
-          43.86524963378906
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7115",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "2325__201102_Timetable_-_2026-01",
-        "route_id": "905",
-        "timestamp": 1769465035
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.08346557617188,
-          43.84116744995117
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7116",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1907__201023_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465071
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.90118408203125,
-          43.90846633911133
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7118",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "2009__201020_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465023
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.97623443603516,
-          43.89191818237305
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7119",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "769__201037_Timetable_-_2026-01",
-        "route_id": "301",
-        "timestamp": 1769465061
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.92986297607422,
-          44.06381607055664
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7120",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1787__201044_Timetable_-_2026-01",
-        "route_id": "905",
-        "timestamp": 1769465051
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.08511352539062,
-          43.832950592041016
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7122",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1420__201093_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465065
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.00810241699219,
-          43.82706832885742
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7123",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "680__201006_Timetable_-_2026-01",
-        "route_id": "224",
-        "timestamp": 1769465039
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.6976318359375,
-          43.912498474121094
-        ]
-      },
-      "properties": {
-        "vehicle_id": "7124",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1380__401056_Timetable_-_2026-01",
-        "route_id": "502",
-        "timestamp": 1769465042
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.06189727783203,
-          43.86933517456055
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8472",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1277__201061_Timetable_-_2026-01",
-        "route_id": "211",
-        "timestamp": 1769465050
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.00226593017578,
-          43.83074951171875
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8503",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "678__201007_Timetable_-_2026-01",
-        "route_id": "224",
-        "timestamp": 1769465021
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.04243469238281,
-          43.857601165771484
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8504",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "491__201016_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465036
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.90463256835938,
-          43.88823318481445
+          -78.82806396484375,
+          43.88291549682617
         ]
       },
       "properties": {
         "vehicle_id": "8508",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "520__401054_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465031
+        "trip_id": "146__401067_Timetable_-_2026-04",
+        "route_id": "407",
+        "timestamp": 1781872978
       }
     },
     {
@@ -1086,17 +1140,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.95148468017578,
-          43.858699798583984
+          -78.95138549804688,
+          43.877864837646484
         ]
       },
       "properties": {
         "vehicle_id": "8509",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "677__401036_Timetable_-_2026-01",
-        "route_id": "917",
-        "timestamp": 1769464997
+        "trip_id": "441__402006_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872944
       }
     },
     {
@@ -1104,17 +1158,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.68851470947266,
-          43.91316604614258
+          -79.0283203125,
+          43.882568359375
         ]
       },
       "properties": {
-        "vehicle_id": "8510",
+        "vehicle_id": "8513",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2438__401093_Timetable_-_2026-01",
-        "route_id": "505",
-        "timestamp": 1769465067
+        "trip_id": "1185__201064_Timetable_-_2026-04",
+        "route_id": "216",
+        "timestamp": 1781872940
       }
     },
     {
@@ -1122,35 +1176,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.07544708251953,
-          43.824214935302734
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8512",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "729__201060_Timetable_-_2026-01",
-        "route_id": "101",
-        "timestamp": 1769465037
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.04141998291016,
-          43.84698486328125
+          -79.03778076171875,
+          43.839683532714844
         ]
       },
       "properties": {
         "vehicle_id": "8514",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1315__201065_Timetable_-_2026-01",
-        "route_id": "227",
-        "timestamp": 1769465064
+        "trip_id": "637__201014_Timetable_-_2026-04",
+        "route_id": "917",
+        "timestamp": 1781872953
       }
     },
     {
@@ -1158,17 +1194,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87744903564453,
-          43.88911819458008
+          -78.93765258789062,
+          43.86520004272461
         ]
       },
       "properties": {
         "vehicle_id": "8515",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "600__201008_Timetable_-_2026-01",
-        "route_id": "917",
-        "timestamp": 1769465066
+        "trip_id": "1245__201035_Timetable_-_2026-04",
+        "route_id": "319",
+        "timestamp": 1781872942
       }
     },
     {
@@ -1176,53 +1212,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.10076904296875,
-          43.825950622558594
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8522",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1595__402006_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465018
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.04045104980469,
-          43.84943389892578
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8523",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1965__201029_Timetable_-_2026-01",
-        "route_id": "915",
-        "timestamp": 1769465064
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.02733612060547,
-          43.88031768798828
+          -79.06517028808594,
+          44.10210037231445
         ]
       },
       "properties": {
         "vehicle_id": "8524",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1171__201054_Timetable_-_2026-01",
-        "route_id": "216",
-        "timestamp": 1769464926
+        "trip_id": "1769__201025_Timetable_-_2026-04",
+        "route_id": "905",
+        "timestamp": 1781872995
       }
     },
     {
@@ -1230,17 +1230,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.95718383789062,
-          43.91365051269531
+          -78.90271759033203,
+          43.92748260498047
         ]
       },
       "properties": {
         "vehicle_id": "8525",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2077__201012_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465070
+        "trip_id": "1748__201038_Timetable_-_2026-04",
+        "route_id": "905",
+        "timestamp": 1781872994
       }
     },
     {
@@ -1248,17 +1248,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.08872985839844,
-          43.839351654052734
+          -78.98760223388672,
+          43.90829849243164
         ]
       },
       "properties": {
         "vehicle_id": "8526",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2233__201096_Timetable_-_2026-01",
-        "route_id": "112",
-        "timestamp": 1769465069
+        "trip_id": "5696__201026_Timetable_-_2026-04",
+        "route_id": "915",
+        "timestamp": 1781872990
       }
     },
     {
@@ -1266,17 +1266,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.93782043457031,
-          43.8656005859375
+          -79.009765625,
+          43.883766174316406
         ]
       },
       "properties": {
         "vehicle_id": "8528",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2064__201011_Timetable_-_2026-01",
-        "route_id": "392",
-        "timestamp": 1769465024
+        "trip_id": "5598__201003_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872797
       }
     },
     {
@@ -1284,17 +1284,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.84449768066406,
-          43.90396499633789
+          -79.09660339355469,
+          43.831050872802734
         ]
       },
       "properties": {
         "vehicle_id": "8529",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1718__401066_Timetable_-_2026-01",
-        "route_id": "902",
-        "timestamp": 1769465063
+        "trip_id": "1532__401099_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872978
       }
     },
     {
@@ -1302,17 +1302,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.99330139160156,
-          43.88761520385742
+          -79.08051300048828,
+          43.837501525878906
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8531",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1435__201079_Timetable_-_2026-04",
+        "route_id": "920",
+        "timestamp": 1781872958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.11775207519531,
+          43.8171501159668
         ]
       },
       "properties": {
         "vehicle_id": "8532",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2051__201021_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465029
+        "trip_id": "505__201017_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872976
       }
     },
     {
@@ -1320,17 +1338,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.89558410644531,
-          43.943599700927734
+          -78.92483520507812,
+          43.94181823730469
         ]
       },
       "properties": {
         "vehicle_id": "8534",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1542__401068_Timetable_-_2026-01",
+        "trip_id": "1550__401079_Timetable_-_2026-04",
         "route_id": "921",
-        "timestamp": 1769465056
+        "timestamp": 1781872938
       }
     },
     {
@@ -1338,17 +1356,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.97681427001953,
-          43.95954895019531
+          -79.04329681396484,
+          43.87685012817383
         ]
       },
       "properties": {
         "vehicle_id": "8536",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2057__201069_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465017
+        "trip_id": "5750__201029_Timetable_-_2026-04",
+        "route_id": "915",
+        "timestamp": 1781872954
       }
     },
     {
@@ -1356,35 +1374,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.03541564941406,
-          43.84093475341797
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8538",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1303__201055_Timetable_-_2026-01",
-        "route_id": "227",
-        "timestamp": 1769465018
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.86378479003906,
-          43.89851760864258
+          -78.8518295288086,
+          43.94526672363281
         ]
       },
       "properties": {
         "vehicle_id": "8539",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "459__402003_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465072
+        "trip_id": "881__401018_Timetable_-_2026-04",
+        "route_id": "419",
+        "timestamp": 1781872972
       }
     },
     {
@@ -1392,17 +1392,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0997314453125,
-          43.827083587646484
+          -79.02995300292969,
+          43.89554977416992
         ]
       },
       "properties": {
         "vehicle_id": "8540",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2261__201001_Timetable_-_2026-01",
-        "route_id": "118",
-        "timestamp": 1769465030
+        "trip_id": "621__201028_Timetable_-_2026-04",
+        "route_id": "224",
+        "timestamp": 1781872960
       }
     },
     {
@@ -1410,17 +1410,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.94216918945312,
-          43.879634857177734
+          -79.04098510742188,
+          43.84751510620117
         ]
       },
       "properties": {
         "vehicle_id": "8541",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2152__201040_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465036
+        "trip_id": "5695__201077_Timetable_-_2026-04",
+        "route_id": "915",
+        "timestamp": 1781872974
       }
     },
     {
@@ -1428,17 +1428,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.03997039794922,
-          43.8442497253418
+          -79.04850006103516,
+          43.8560676574707
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8542",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1413__201088_Timetable_-_2026-04",
+        "route_id": "920",
+        "timestamp": 1781872996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94091796875,
+          43.91886520385742
         ]
       },
       "properties": {
         "vehicle_id": "8543",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1304__201063_Timetable_-_2026-01",
-        "route_id": "227",
-        "timestamp": 1769465048
+        "trip_id": "5749__201002_Timetable_-_2026-04",
+        "route_id": "915",
+        "timestamp": 1781872976
       }
     },
     {
@@ -1446,17 +1464,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.85678100585938,
-          43.95615005493164
+          -78.9085464477539,
+          43.94525146484375
         ]
       },
       "properties": {
         "vehicle_id": "8544",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2002__201034_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465028
+        "trip_id": "1411__201084_Timetable_-_2026-04",
+        "route_id": "920",
+        "timestamp": 1781872985
       }
     },
     {
@@ -1464,35 +1482,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1175537109375,
-          43.87405014038086
+          -79.02776336669922,
+          43.88176727294922
         ]
       },
       "properties": {
         "vehicle_id": "8545",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2270__201005_Timetable_-_2026-01",
-        "route_id": "112",
-        "timestamp": 1769464995
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0341796875,
-          43.840415954589844
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8546",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1144__201068_Timetable_-_2026-01",
+        "trip_id": "1136__201030_Timetable_-_2026-04",
         "route_id": "216",
-        "timestamp": 1769465055
+        "timestamp": 1781872841
       }
     },
     {
@@ -1500,17 +1500,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.03926849365234,
-          43.86690139770508
+          -78.88333129882812,
+          43.93203353881836
         ]
       },
       "properties": {
         "vehicle_id": "8547",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1932__201004_Timetable_-_2026-01",
+        "trip_id": "5697__201005_Timetable_-_2026-04",
         "route_id": "915",
-        "timestamp": 1769465053
+        "timestamp": 1781872951
       }
     },
     {
@@ -1518,17 +1518,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8375473022461,
-          43.876617431640625
+          -78.87256622314453,
+          43.953182220458984
         ]
       },
       "properties": {
-        "vehicle_id": "8551",
+        "vehicle_id": "8553",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1064__401015_Timetable_-_2026-01",
-        "route_id": "421",
-        "timestamp": 1769465021
+        "trip_id": "142__401010_Timetable_-_2026-04",
+        "route_id": "407",
+        "timestamp": 1781872966
       }
     },
     {
@@ -1536,35 +1536,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.12993621826172,
-          43.80910110473633
+          -78.87696838378906,
+          43.888816833496094
         ]
       },
       "properties": {
-        "vehicle_id": "8552",
+        "vehicle_id": "8555",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "522__402008_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465052
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.8649673461914,
-          43.90065002441406
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8556",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "961__401028_Timetable_-_2026-01",
+        "trip_id": "5343__401097_Timetable_-_2026-04",
         "route_id": "901",
-        "timestamp": 1769465062
+        "timestamp": 1781872987
       }
     },
     {
@@ -1572,17 +1554,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.83926391601562,
-          43.94096755981445
+          -78.8031005859375,
+          43.90755081176758
         ]
       },
       "properties": {
         "vehicle_id": "8559",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "240__401006_Timetable_-_2026-01",
-        "route_id": "410",
-        "timestamp": 1769465047
+        "trip_id": "1643__401051_Timetable_-_2026-04",
+        "route_id": "902",
+        "timestamp": 1781872987
       }
     },
     {
@@ -1590,17 +1572,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.89523315429688,
-          43.86943435668945
+          -78.91407012939453,
+          43.9144172668457
         ]
       },
       "properties": {
         "vehicle_id": "8562",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "22__401032_Timetable_-_2026-01",
-        "route_id": "403",
-        "timestamp": 1769465029
+        "trip_id": "321__401038_Timetable_-_2026-04",
+        "route_id": "409",
+        "timestamp": 1781872975
       }
     },
     {
@@ -1608,17 +1590,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.86475372314453,
-          43.875648498535156
+          -78.88565063476562,
+          43.87089920043945
         ]
       },
       "properties": {
-        "vehicle_id": "8566",
+        "vehicle_id": "8564",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "55__401008_Timetable_-_2026-01",
-        "route_id": "403",
-        "timestamp": 1769465063
+        "trip_id": "1645__401059_Timetable_-_2026-04",
+        "route_id": "902",
+        "timestamp": 1781872977
       }
     },
     {
@@ -1626,35 +1608,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.19093322753906,
-          43.78746795654297
+          -78.8720703125,
+          43.88778305053711
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8567",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "208__401039_Timetable_-_2026-04",
+        "route_id": "410",
+        "timestamp": 1781872962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25308227539062,
+          43.775333404541016
         ]
       },
       "properties": {
         "vehicle_id": "8568",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1605__401053_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465023
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.93738555908203,
-          43.91978454589844
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8570",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1543__401040_Timetable_-_2026-01",
+        "trip_id": "1535__401022_Timetable_-_2026-04",
         "route_id": "921",
-        "timestamp": 1769465056
+        "timestamp": 1781872980
       }
     },
     {
@@ -1662,17 +1644,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8338851928711,
-          43.89451599121094
+          -78.87643432617188,
+          43.88893508911133
         ]
       },
       "properties": {
         "vehicle_id": "8571",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "241__401043_Timetable_-_2026-01",
-        "route_id": "410",
-        "timestamp": 1769465065
+        "trip_id": "1693__401060_Timetable_-_2026-04",
+        "route_id": "902",
+        "timestamp": 1781872949
       }
     },
     {
@@ -1680,17 +1662,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.09868621826172,
-          43.8289680480957
+          -78.84228515625,
+          43.9739990234375
         ]
       },
       "properties": {
         "vehicle_id": "8572",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1472__401050_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465042
+        "trip_id": "2445__401084_Timetable_-_2026-04",
+        "route_id": "505",
+        "timestamp": 1781872991
       }
     },
     {
@@ -1698,17 +1680,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87725067138672,
-          43.88945007324219
+          -78.87674713134766,
+          43.88895034790039
         ]
       },
       "properties": {
-        "vehicle_id": "8574",
+        "vehicle_id": "8573",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "112__401014_Timetable_-_2026-01",
-        "route_id": "405",
-        "timestamp": 1769465067
+        "trip_id": "1076__401082_Timetable_-_2026-04",
+        "route_id": "421",
+        "timestamp": 1781872990
       }
     },
     {
@@ -1716,17 +1698,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.9405517578125,
-          43.89961624145508
+          -78.84854888916016,
+          43.89120101928711
         ]
       },
       "properties": {
         "vehicle_id": "8575",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1493__401020_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465047
+        "trip_id": "207__401037_Timetable_-_2026-04",
+        "route_id": "410",
+        "timestamp": 1781872941
       }
     },
     {
@@ -1734,17 +1716,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.08580017089844,
-          43.874549865722656
+          -79.01716613769531,
+          43.90134811401367
         ]
       },
       "properties": {
         "vehicle_id": "8576",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1525__401075_Timetable_-_2026-01",
+        "trip_id": "1551__401025_Timetable_-_2026-04",
         "route_id": "921",
-        "timestamp": 1769464992
+        "timestamp": 1781872954
       }
     },
     {
@@ -1752,35 +1734,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.98648071289062,
-          43.8699836730957
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8577",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "555__402005_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465018
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.85665130615234,
-          43.89915084838867
+          -78.8653335571289,
+          43.897132873535156
         ]
       },
       "properties": {
         "vehicle_id": "8578",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1669__401058_Timetable_-_2026-01",
+        "trip_id": "1644__401061_Timetable_-_2026-04",
         "route_id": "902",
-        "timestamp": 1769465052
+        "timestamp": 1781872972
       }
     },
     {
@@ -1788,71 +1752,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8691635131836,
-          43.88571548461914
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8579",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1023__403008_Timetable_-_2026-01",
-        "route_id": "901",
-        "timestamp": 1769465035
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88801574707031,
-          43.87255096435547
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8580",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1089__403002_Timetable_-_2026-01",
-        "route_id": "421",
-        "timestamp": 1769465037
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.21471405029297,
-          43.79595184326172
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8581",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1470__401074_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465045
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.87715148925781,
-          43.88886642456055
+          -79.09535217285156,
+          43.83186721801758
         ]
       },
       "properties": {
         "vehicle_id": "8582",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "958__401045_Timetable_-_2026-01",
-        "route_id": "901",
-        "timestamp": 1769465067
+        "trip_id": "1548__401009_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872941
       }
     },
     {
@@ -1860,35 +1770,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.67826843261719,
-          43.90608215332031
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8583",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1733__401059_Timetable_-_2026-01",
-        "route_id": "507",
-        "timestamp": 1769465045
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.6776351928711,
-          43.904598236083984
+          -78.70718383789062,
+          43.90851593017578
         ]
       },
       "properties": {
         "vehicle_id": "8584",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1739__403006_Timetable_-_2026-01",
-        "route_id": "507",
-        "timestamp": 1769465016
+        "trip_id": "1339__403015_Timetable_-_2026-04",
+        "route_id": "502",
+        "timestamp": 1781872992
       }
     },
     {
@@ -1896,17 +1788,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8958969116211,
-          43.943233489990234
+          -78.89396667480469,
+          43.94431686401367
         ]
       },
       "properties": {
         "vehicle_id": "8585",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1539__401071_Timetable_-_2026-01",
-        "route_id": "921",
-        "timestamp": 1769465050
+        "trip_id": "1635__401020_Timetable_-_2026-04",
+        "route_id": "852",
+        "timestamp": 1781872992
       }
     },
     {
@@ -1914,17 +1806,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.96514892578125,
-          43.8747673034668
+          -78.8901138305664,
+          43.943851470947266
         ]
       },
       "properties": {
         "vehicle_id": "8586",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "458__201071_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465020
+        "trip_id": "5274__402009_Timetable_-_2026-04",
+        "route_id": "901",
+        "timestamp": 1781872991
       }
     },
     {
@@ -1932,17 +1824,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0949478149414,
-          44.33766555786133
+          -78.68160247802734,
+          43.91371536254883
         ]
       },
       "properties": {
         "vehicle_id": "8587",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1508__401095_Timetable_-_2026-01",
-        "route_id": "618",
-        "timestamp": 1769465045
+        "trip_id": "1346__401001_Timetable_-_2026-04",
+        "route_id": "502",
+        "timestamp": 1781872974
       }
     },
     {
@@ -1950,53 +1842,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.84516906738281,
-          43.89193344116211
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8589",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "275__401052_Timetable_-_2026-01",
-        "route_id": "423",
-        "timestamp": 1769465061
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.00154876708984,
-          43.90489959716797
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8590",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1949__201077_Timetable_-_2026-01",
-        "route_id": "915",
-        "timestamp": 1769465022
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.92911529541016,
-          43.86819839477539
+          -78.98834991455078,
+          43.849365234375
         ]
       },
       "properties": {
         "vehicle_id": "8591",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "576__201033_Timetable_-_2026-01",
-        "route_id": "319",
-        "timestamp": 1769465052
+        "trip_id": "1301__201055_Timetable_-_2026-04",
+        "route_id": "227",
+        "timestamp": 1781872975
       }
     },
     {
@@ -2004,17 +1860,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.036865234375,
-          43.8441162109375
+          -78.90061950683594,
+          43.889183044433594
         ]
       },
       "properties": {
         "vehicle_id": "8592",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1193__201053_Timetable_-_2026-01",
-        "route_id": "216",
-        "timestamp": 1769465032
+        "trip_id": "534__201083_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872986
       }
     },
     {
@@ -2022,17 +1878,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87488555908203,
-          43.87521743774414
+          -78.98326873779297,
+          43.90919876098633
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8601",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "1536__401053_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17048645019531,
+          43.80853271484375
         ]
       },
       "properties": {
         "vehicle_id": "8603",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1670__401063_Timetable_-_2026-01",
-        "route_id": "902",
-        "timestamp": 1769465047
+        "trip_id": "1526__401032_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872973
       }
     },
     {
@@ -2040,17 +1914,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.86196899414062,
-          43.9434814453125
+          -78.88925170898438,
+          43.943115234375
         ]
       },
       "properties": {
         "vehicle_id": "8604",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "110__401003_Timetable_-_2026-01",
-        "route_id": "405",
-        "timestamp": 1769465044
+        "trip_id": "5344__401043_Timetable_-_2026-04",
+        "route_id": "901",
+        "timestamp": 1781872995
       }
     },
     {
@@ -2058,17 +1932,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87761688232422,
-          43.8865852355957
+          -78.71151733398438,
+          43.93265151977539
         ]
       },
       "properties": {
         "vehicle_id": "8605",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "337__401042_Timetable_-_2026-01",
-        "route_id": "409",
-        "timestamp": 1769465020
+        "trip_id": "1344__401054_Timetable_-_2026-04",
+        "route_id": "502",
+        "timestamp": 1781872973
       }
     },
     {
@@ -2076,17 +1950,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.89640045166016,
-          43.947967529296875
+          -78.84861755371094,
+          43.94183349609375
         ]
       },
       "properties": {
         "vehicle_id": "8606",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "313__401029_Timetable_-_2026-01",
-        "route_id": "409",
-        "timestamp": 1769465056
+        "trip_id": "209__401048_Timetable_-_2026-04",
+        "route_id": "410",
+        "timestamp": 1781872966
       }
     },
     {
@@ -2094,17 +1968,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.67725372314453,
-          43.90871810913086
+          -78.82821655273438,
+          43.8792839050293
         ]
       },
       "properties": {
         "vehicle_id": "8608",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1379__401064_Timetable_-_2026-01",
-        "route_id": "502",
-        "timestamp": 1769465024
+        "trip_id": "1075__401040_Timetable_-_2026-04",
+        "route_id": "421",
+        "timestamp": 1781872992
       }
     },
     {
@@ -2112,17 +1986,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.84870147705078,
-          43.942081451416016
+          -78.84956359863281,
+          43.91476821899414
         ]
       },
       "properties": {
         "vehicle_id": "8609",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "243__401037_Timetable_-_2026-01",
-        "route_id": "410",
-        "timestamp": 1769465024
+        "trip_id": "77__401002_Timetable_-_2026-04",
+        "route_id": "405",
+        "timestamp": 1781872995
       }
     },
     {
@@ -2130,17 +2004,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.93783569335938,
-          43.865116119384766
+          -78.81365203857422,
+          43.898250579833984
         ]
       },
       "properties": {
-        "vehicle_id": "8613",
+        "vehicle_id": "8610",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2412__201098_Timetable_-_2026-01",
-        "route_id": "315",
-        "timestamp": 1769465021
+        "trip_id": "271__401016_Timetable_-_2026-04",
+        "route_id": "423",
+        "timestamp": 1781872980
       }
     },
     {
@@ -2148,17 +2022,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.09001922607422,
-          43.835899353027344
+          -78.9454345703125,
+          43.84851837158203
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8611",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "2086__201042_Timetable_-_2026-04",
+        "route_id": "392",
+        "timestamp": 1781872943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89986419677734,
+          43.964115142822266
         ]
       },
       "properties": {
         "vehicle_id": "8614",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "556__201018_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465070
+        "trip_id": "2332__201097_Timetable_-_2026-04",
+        "route_id": "905",
+        "timestamp": 1781872982
       }
     },
     {
@@ -2166,89 +2058,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.01653289794922,
-          43.87234878540039
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8615",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1418__201081_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465066
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.93523406982422,
-          43.93949890136719
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8616",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "1441__201085_Timetable_-_2026-01",
-        "route_id": "920",
-        "timestamp": 1769465038
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.90298461914062,
-          43.9630012512207
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8617",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "2174__201036_Timetable_-_2026-01",
-        "route_id": "302",
-        "timestamp": 1769465034
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1142349243164,
-          43.84130096435547
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8618",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "812__201026_Timetable_-_2026-01",
-        "route_id": "121",
-        "timestamp": 1769465072
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0080337524414,
-          43.897865295410156
+          -78.849853515625,
+          43.93939971923828
         ]
       },
       "properties": {
         "vehicle_id": "8619",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1194__201056_Timetable_-_2026-01",
-        "route_id": "216",
-        "timestamp": 1769465051
+        "trip_id": "5748__201021_Timetable_-_2026-04",
+        "route_id": "915",
+        "timestamp": 1781872963
       }
     },
     {
@@ -2256,17 +2076,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.08038330078125,
-          43.84378433227539
+          -78.90274810791016,
+          43.888816833496094
         ]
       },
       "properties": {
         "vehicle_id": "8620",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1963__201050_Timetable_-_2026-01",
-        "route_id": "916",
-        "timestamp": 1769465042
+        "trip_id": "471__201019_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872976
       }
     },
     {
@@ -2274,17 +2094,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.93756866455078,
-          43.865318298339844
+          -78.84795379638672,
+          43.935768127441406
+        ]
+      },
+      "properties": {
+        "vehicle_id": "8621",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5645__201076_Timetable_-_2026-04",
+        "route_id": "916",
+        "timestamp": 1781872993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90689849853516,
+          43.872501373291016
         ]
       },
       "properties": {
         "vehicle_id": "8622",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1759__201070_Timetable_-_2026-01",
+        "trip_id": "2308__201096_Timetable_-_2026-04",
         "route_id": "905",
-        "timestamp": 1769465038
+        "timestamp": 1781872985
       }
     },
     {
@@ -2292,17 +2130,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.71503448486328,
-          43.909332275390625
+          -78.8785629272461,
+          43.956417083740234
         ]
       },
       "properties": {
         "vehicle_id": "8623",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1668__401061_Timetable_-_2026-01",
-        "route_id": "902",
-        "timestamp": 1769465051
+        "trip_id": "857__401023_Timetable_-_2026-04",
+        "route_id": "419",
+        "timestamp": 1781872976
       }
     },
     {
@@ -2310,17 +2148,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.99368286132812,
-          44.31880187988281
+          -78.89418029785156,
+          43.94404983520508
         ]
       },
       "properties": {
         "vehicle_id": "8624",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1499__401051_Timetable_-_2026-01",
-        "route_id": "618",
-        "timestamp": 1769465071
+        "trip_id": "1552__401019_Timetable_-_2026-04",
+        "route_id": "921",
+        "timestamp": 1781872991
       }
     },
     {
@@ -2328,53 +2166,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.04081726074219,
-          43.85771560668945
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8625",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "521__201088_Timetable_-_2026-01",
-        "route_id": "900",
-        "timestamp": 1769465026
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.92105102539062,
-          43.88071823120117
-        ]
-      },
-      "properties": {
-        "vehicle_id": "8626",
-        "bearing": 0.0,
-        "speed": 0.0,
-        "trip_id": "578__201035_Timetable_-_2026-01",
-        "route_id": "319",
-        "timestamp": 1769465014
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.86955261230469,
-          43.888484954833984
+          -79.08751678466797,
+          43.83811569213867
         ]
       },
       "properties": {
         "vehicle_id": "9101",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2376__402004_Timetable_-_2026-01",
-        "route_id": "901",
-        "timestamp": 1769465034
+        "trip_id": "1591__402005_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872977
       }
     },
     {
@@ -2382,17 +2184,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.88508605957031,
-          43.940399169921875
+          -78.85874938964844,
+          43.89966583251953
         ]
       },
       "properties": {
         "vehicle_id": "9102",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "2402__402002_Timetable_-_2026-01",
-        "route_id": "901",
-        "timestamp": 1769465069
+        "trip_id": "442__402001_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872997
       }
     },
     {
@@ -2400,17 +2202,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.87754821777344,
-          43.92926788330078
+          -79.0448989868164,
+          43.85691833496094
         ]
       },
       "properties": {
-        "vehicle_id": "9103",
+        "vehicle_id": "9104",
         "bearing": 0.0,
         "speed": 0.0,
-        "trip_id": "1019__401002_Timetable_-_2026-01",
+        "trip_id": "470__402003_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8720474243164,
+          43.88778305053711
+        ]
+      },
+      "properties": {
+        "vehicle_id": "9105",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "5400__402004_Timetable_-_2026-04",
         "route_id": "901",
-        "timestamp": 1769465057
+        "timestamp": 1781872943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08998107910156,
+          43.835899353027344
+        ]
+      },
+      "properties": {
+        "vehicle_id": "9106",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "535__402008_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.19090270996094,
+          43.78746795654297
+        ]
+      },
+      "properties": {
+        "vehicle_id": "9107",
+        "bearing": 0.0,
+        "speed": 0.0,
+        "trip_id": "506__402007_Timetable_-_2026-04",
+        "route_id": "900",
+        "timestamp": 1781872951
       }
     }
   ]
