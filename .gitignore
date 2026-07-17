@@ -4,6 +4,9 @@ GTFS_old/
 icons/
 .aws-sam/
 gtfs_env/
+**/notes_to_do.txt
+notes_to_do.txt
+**/GTFS_static/*
 
 _SS/
 .DS_Store
