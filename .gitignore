@@ -7,6 +7,7 @@ gtfs_env/
 **/notes_to_do.txt
 notes_to_do.txt
 **/GTFS_static/*
+**/gbfs_in_files/**
 
 _SS/
 .DS_Store
